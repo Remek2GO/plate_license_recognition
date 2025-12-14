@@ -1,0 +1,12 @@
+pandas
+torch
+torchaudio
+lightning
+kagglehub
+scikit-learn
+ipython
+openl3
+tensorflow
+numpy
+soundfile
+torchcodec
